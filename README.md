@@ -8,4 +8,4 @@ The system will also enable law enforcement agencies to receive and respond to c
 This includes the type of crime, the location, and the date and time of the incident, images and videos to provide additional information.
 
 The law enforcement agencies will be able to access the    reports and respond to them using an administrative interface
-![image](https://github.com/DEMONLAWYERGT/CRIMEMANAGER_COMPLAINT/assets/91903192/6ca9cc77-da8f-4531-b10b-b847216d6bdb)
+
