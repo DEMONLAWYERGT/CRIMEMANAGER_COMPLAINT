@@ -1,5 +1,5 @@
 # CRIMEMANAGER_COMPLAINT
-This mini project focuses on developing a live crime managing system using PHP
+This project focuses on developing a live crime managing system using PHP
 
 It allows the users to report crimes and track the status of their reports in real-time. 
 
